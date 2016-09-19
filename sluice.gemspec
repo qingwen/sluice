@@ -36,7 +36,7 @@ Gem::Specification.new do |gem|
 
   # Dependencies
   gem.add_dependency 'contracts', '~> 0.9'
-  gem.add_dependency 'fog', '~> 1.25'
+  gem.add_dependency 'fog', '~> 1.38.0'
 
   gem.add_runtime_dependency 'net-ssh', '~> 2.9.2'
 
